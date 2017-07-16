@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An app to learn kana.",
   "author": "Octachore <octachore@outlook.com>",
+  "license": "GPL-3.0",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
